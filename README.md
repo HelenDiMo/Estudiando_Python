@@ -24,6 +24,11 @@ Este contenido está basado en el curso **Introducción a la Inteligencia Artifi
 
 ### Estudiando_Python_1 🐍
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/status-learning-green)
+![Editor](https://img.shields.io/badge/Editor-VSCode-blue)
+![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange)
+
 Apuntes estructurados y ejemplos prácticos sobre:
 
 - Variables y tipos de datos  

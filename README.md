@@ -37,7 +37,12 @@ Apuntes estructurados y ejemplos prácticos sobre:
 - Funciones
 - Vectores y Matrices 
 
-### Menu_burger_app 🍔​
+### Menu_burger_app 🍔
+​
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![App](https://img.shields.io/badge/type-CLI%20App-5DADE2)
+![Status](https://img.shields.io/badge/status-completed-2ECC71)
+![Logic](https://img.shields.io/badge/focus-logic%20building-F39C12)
 
 Pequeña aplicación interactiva para la compra de hamburguesas con selección de extras.
 
@@ -49,6 +54,11 @@ Conceptos aplicados:
 - Lógica de decisión  
 
 ### Retos 🎯​
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Practice](https://img.shields.io/badge/type-practice-9B59B6)
+![Status](https://img.shields.io/badge/status-in%20progress-F1C40F)
+![Focus](https://img.shields.io/badge/focus-problem%20solving-E67E22)
 
 Actividades prácticas propuestas para reforzar el aprendizaje.
 

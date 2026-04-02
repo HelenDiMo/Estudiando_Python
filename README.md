@@ -1,10 +1,8 @@
 # PROGRAMACIÓN CON PYTHON <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ea9479b8-0335-4e2d-bb7b-4adc69114c77" />
 
-En este repositorio se recogerán los apuntes y actividades que he ido tomando y haciendo para repasar lo aprendido en el curso de **INTRODUCCIÓN A LA IA - 80 H.** en relación a la programación con Python.
+Repositorio enfocado en el aprendizaje práctico de Python, donde desarrollo ejercicios, retos y pequeños proyectos aplicando lógica de programación, estructuras de datos y resolución de problemas.
 
-Estas tareas son una combinación de los apuntes de clases y actividades y retos que me he ido proponiendo. 
-
-Los archivos 
+Este contenido está basado en el curso **Introducción a la Inteligencia Artificial (80h)** y en práctica adicional mediante retos auto-propuestos.
 
 ### Estudiando_Python_1 🐍
 
@@ -17,4 +15,3 @@ Menú compra de Hamburguesa y elección de extras - https://menu-burger-app.lova
 ### Retos 🎯​
 
 Actividades sueltas propuestas por Gemini para practicar.
-

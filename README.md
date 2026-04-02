@@ -6,9 +6,21 @@ Este contenido está basado en el curso **Introducción a la Inteligencia Artifi
 
 ## 🛠️ Tecnologías utilizadas
 
-- Python
-- Git & GitHub
-- Visual Studio Code
+**Lenguaje:**
+- Python  
+
+**Entornos de desarrollo:**
+- Visual Studio Code  
+- Google Colab  
+
+**Control de versiones:**
+- Git & GitHub  
+
+**Librerías utilizadas:**
+- pytz (gestión de zonas horarias)
+
+
+## 📂 Contenido del repositorio
 
 ### Estudiando_Python_1 🐍
 

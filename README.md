@@ -2,7 +2,7 @@
 
 Repositorio enfocado en el aprendizaje práctico de Python, donde desarrollo ejercicios, retos y pequeños proyectos aplicando lógica de programación, estructuras de datos y resolución de problemas.
 
-Este contenido está basado en el curso **Introducción a la Inteligencia Artificial (80h)** de [Fundación Somos F5](https://www.somosf5.org/) y en práctica adicional mediante retos auto-propuestos.
+Este contenido está basado en el curso **Introducción a la Inteligencia Artificial (80h)** de *[Fundación Somos F5](https://www.somosf5.org/)* y en práctica adicional mediante retos auto-propuestos.
 
 ## 🛠️ Tecnologías utilizadas
 

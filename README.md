@@ -18,6 +18,7 @@ Este contenido está basado en el curso **Introducción a la Inteligencia Artifi
 
 **Librerías utilizadas:**
 - pytz (gestión de zonas horarias)
+- numpy (cálculo numérico y operaciones con arrays)
 
 
 ## 📂 Contenido del repositorio

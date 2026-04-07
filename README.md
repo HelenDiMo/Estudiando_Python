@@ -35,8 +35,23 @@ Apuntes estructurados y ejemplos prácticos sobre:
 - Condicionales  
 - Bucles  
 - Funciones
-- Vectores y Matrices 
+- Vectores y Matrices
+  
+### 🖼️ Matriz e Imágenes (Bounding Box)
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Concept](https://img.shields.io/badge/concept-image%20processing-8E44AD)
+![Focus](https://img.shields.io/badge/focus-logic%20%26%20arrays-F39C12)
+![Status](https://img.shields.io/badge/status-completed-2ECC71)
+
+Implementación de una representación de imagen en blanco y negro mediante matrices, donde se detecta un objeto y se calcula su **bounding box**.
+
+Conceptos aplicados:
+- Representación de imágenes como matrices  
+- Recorrido de arrays bidimensionales  
+- Detección de patrones  
+- Cálculo de dimensiones (ancho y alto)
+  
 ### Menu_burger_app 🍔
 ​
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)

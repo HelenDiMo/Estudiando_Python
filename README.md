@@ -22,7 +22,7 @@ Este contenido está basado en el curso **Introducción a la Inteligencia Artifi
 
 ## 📂 Contenido del repositorio
 
-### Estudiando_Python_1 🐍
+### 1. Estudiando_Python 🐍
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/status-learning-green)
@@ -36,6 +36,21 @@ Apuntes estructurados y ejemplos prácticos sobre:
 - Bucles  
 - Funciones
 - Vectores y Matrices
+
+### 📊 Estadística Descriptiva
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Concept](https://img.shields.io/badge/concept-data%20analysis-16A085)
+![Focus](https://img.shields.io/badge/focus-statistics-F39C12)
+![Status](https://img.shields.io/badge/status-completed-2ECC71)
+
+Análisis básico de datos mediante estadística descriptiva, calculando métricas clave para entender la distribución de un conjunto de datos.
+
+Conceptos aplicados:
+- Media, mediana y moda  
+- Varianza y desviación estándar  
+- Análisis de distribución de datos  
+- Interpretación de resultados
   
 ### 🖼️ Matriz e Imágenes (Bounding Box)
 
